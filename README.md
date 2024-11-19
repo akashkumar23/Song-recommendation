@@ -34,27 +34,18 @@ MeloMap is a web application that recommends songs to users based on their input
 
 1. Clone the repository:
 
-   ```bash
-      https://github.com/akashkumar23/Song-recommendation
-    ```
+ 
 2. Navigate to the project directory:
 
-   ```bash
-   cd Song-Recommendation-System
-    ```
+  
 3. Run Docker:
 
     To start the application, run the following command:
 
-    ```bash
-    docker-compose up --build
-    ```
+   
 2. Visit the following url in your browser to access the application:
 
-   ```bash
-   http://localhost:3000/
-    ```
-
+ 
 
 
 ## Usage
