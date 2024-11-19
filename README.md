@@ -35,7 +35,7 @@ MeloMap is a web application that recommends songs to users based on their input
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/manantakkar18/Song-Recommendation-System.git
+      https://github.com/akashkumar23/Song-recommendation
     ```
 2. Navigate to the project directory:
 
