@@ -11,8 +11,7 @@ Welcome to the Song Recommendation System! This project aims to recommend songs 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [Documentation](#documentation)
-- [License](#license)
+
 
 
 
